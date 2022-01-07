@@ -1,0 +1,226 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    width: 100%;
+    background-color:#fafafa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, a{
+
+    text-decoration: none;
+    list-style: none;
+}
+
+#container{
+
+
+    margin: 0 auto;
+    width: 60%;
+}
+
+.img, .caixa1{
+
+    
+  float: left;
+}
+
+.img img{
+
+    width: 400px;
+}
+
+.caixa1{
+
+    text-align: center;
+    border: 1px solid rgba(204, 204, 204, 0.562);
+    background-color: white;
+    margin-top: 55px;
+    width: 370px;
+    height: 400px;
+}
+
+.logo{
+
+    padding: 15px;
+}
+
+.logo img{
+
+    width: 210px;
+    
+}
+
+.inputs{
+
+    margin-top: 10px;
+}
+
+.inputs input{
+
+    border-radius: 3px;
+    border: 1px solid rgba(204, 204, 204, 0.527);
+    outline: none;
+    width: 70%;
+    padding: 10px;
+    font-size:0.8em;
+    background-color: rgba(204, 204, 204, 0.158);
+    margin-top: 8px;
+}
+
+.submit input{
+
+    padding:6px;
+    margin-top: 15px;
+    border-radius: 4px;
+    background-color:rgba(5, 106, 236, 0.884);
+    font-size: 0.9em;
+    color: white;
+    cursor: pointer;
+    
+}
+
+
+.linha1{
+
+   
+    margin-top:60px;
+    width: 60px;
+    border:1px solid red;
+}
+
+.fieldset{
+
+    margin-top:20px;
+}
+
+fieldset{
+
+    border: 1px solid rgba(204, 204, 204, 0.425);
+    border-bottom: transparent;
+    border-left: none;
+    border-right: none;   
+    width: 255px;
+    margin: 0 auto;
+}
+
+legend{
+
+    padding: 8px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+}
+
+.face{
+
+    margin-top: 20px;
+   
+}
+
+
+
+.face li{
+
+    display: inline-block;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.face a{
+
+    color:#385185;
+    font-size: 0.9em;
+}
+
+.face p{
+
+    color:#385185;
+    font-size:0.9em;
+    margin-top:20px;
+    
+}
+
+.fb{ 
+
+    margin: 5px;
+}
+
+.caixa2{
+
+    padding:20px;
+    margin-top: 25px;
+    width: 370px;
+    text-align: center;
+    border: 1px solid rgba(204, 204, 204, 0.562);
+    background-color: white;
+}
+
+.caixa2 li{
+
+    display: inline-block;
+    margin: 3px;
+    font-size:0.9em;
+    color:#262626;
+    
+}
+
+.caixa2 a{
+
+    color: #0095f6;
+}
+
+.apps{
+
+    margin-top: 25px;
+}
+
+.apps p{
+
+    font-size: 0.9em;
+    
+}
+
+.apps img {
+
+    width: 350px;
+}
+
+
+footer{
+
+    clear: both;
+
+    margin: 0 auto;
+    width: 55%;
+    
+}
+
+.conteudo li{
+
+    display: inline-block;
+}
+
+.conteudo ul{
+
+    padding-top: 45px;
+}
+
+
+
+.conteudo a{
+
+    font-size: 0.8em;
+    color:#8e8e8e;
+    margin-right: 10px;
+}
+
+
+
